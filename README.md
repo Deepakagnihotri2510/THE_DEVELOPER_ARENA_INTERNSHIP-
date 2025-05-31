@@ -51,20 +51,20 @@ TheDeveloperArenaInternship/
 ├── Week4.ipynb
 └── README.md
 
-| Month | Focus Area                         | Status      |
-| ----- | ---------------------------------- | ----------- |
-| 1     | Python + Data Cleaning             | ✅ Completed |
-| 2     | Exploratory Data Analysis + SQL    | 🔄 Ongoing  |
-| 3     | Power BI + Data Visualization      | ⏳ Upcoming  |
-| 4     | Machine Learning (Scikit-learn)    | ⏳ Upcoming  |
-| 5     | Deep Learning (CNNs, Autoencoders) | ⏳ Upcoming  |
-| 6     | Capstone Project + Deployment      | ⏳ Upcoming  |
+🔮 What’s Next?
+Month	Focus Area	Status
+1	Python + Data Cleaning	✅ Completed
+2	Exploratory Data Analysis + SQL	🔄 Ongoing
+3	Power BI + Data Visualization	⏳ Upcoming
+4	Machine Learning (Scikit-learn)	⏳ Upcoming
+5	Deep Learning (CNNs, Autoencoders)	⏳ Upcoming
+6	Capstone Project + Deployment	⏳ Upcoming
 
+🙋‍♂ About Me
+Attribute	Details
+👨‍💻 Name	Deepak Agnihotri
+🎓 Education	B.Tech in Computer Science (AI & DS), 4th Year
+🎯 Goal	Aspiring Data Scientist & Problem Solver
+🔗 LinkedIn	linkedin.com/in/deepak-agnihotri
+📧 Contact	deepakagnihotri@email.com (replace with your email)
 
-| Attribute    | Details                                                                                 |
-| ------------ | --------------------------------------------------------------------------------------- |
-| 👨‍💻 Name   | Deepak Agnihotri                                                                        |
-| 🎓 Education | B.Tech in Computer Science (AI & DS), 4th Year                                          |
-| 🎯 Goal      | Aspiring Data Scientist & Problem Solver                                                |
-| 🔗 LinkedIn  | [linkedin.com/in/deepak-agnihotri](https://www.linkedin.com/in/deepak-agnihotri)        |
-| 📧 Contact   | [deepakagnihotri@email.com](mailto:deepakagnihotri@email.com) (replace with your email) |
